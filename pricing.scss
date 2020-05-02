@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.head {
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.period {
+    margin: 0 auto;
+
+    .btn {
+        margin-left: 10px;
+        padding: 20px;
+    }
+}
+
+.pricing {
+    margin-top: 100px;
+}
+
+.set{
+    text-align: center;
+     padding: 10px;
+}
+
+.bronze {
+    background-color: #cd7f32;
+    color: white;
+}
+
+.silver {
+    background-color: #c0c0c0;
+    color: white;
+}
+
+.gold {
+    background-color: gold;
+    color: white;
+}
+
+.title {
+    height: 500px;
+}
+
+li {
+    padding: 20px;
+}
